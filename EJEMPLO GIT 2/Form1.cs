@@ -16,5 +16,10 @@ namespace EJEMPLO_GIT_2
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Me quiero morir");
+        }
     }
 }
